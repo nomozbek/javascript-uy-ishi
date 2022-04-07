@@ -8,4 +8,4 @@ var positionOfUser = prompt('Oldin qayerda ishlagansiz?');
 
 
 
-console.log(`nameOfUser,surnameOfUser, ageOfUser, nationalityOfUser, positionOfUser`);
+console.log(nameOfUser,surnameOfUser, ageOfUser, nationalityOfUser, positionOfUser);
