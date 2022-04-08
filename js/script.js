@@ -8,4 +8,10 @@ var positionOfUser = prompt('Oldin qayerda ishlagansiz?');
 
 
 
-console.log(nameOfUser, ' ', surnameOfUser, ' ', ageOfUser, ' ', nationalityOfUser, ' ',positionOfUser);
+console.log(
+  `Ism: ${nameOfUser}\n
+  Familiya:${surnameOfUser}\n
+  Yosh:${ageOfUser}\n
+  Millati:${nationalityOfUser}\n
+  Ish joyi:${positionOfUser}`
+);
